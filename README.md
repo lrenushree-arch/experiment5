@@ -5,10 +5,15 @@ new update
 <<<<<<< HEAD
 gobble
 <<<<<<< HEAD
+<<<<<<< HEAD
 jizu
 gucci
+prada
 =======
 hai
+=======
+mine
+>>>>>>> 7a93efa (initial commit)
 =======
 its me
 again
