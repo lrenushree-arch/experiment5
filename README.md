@@ -5,6 +5,4 @@ new update
 gobble
 jizu
 gucci
-prada
-chanel
 
